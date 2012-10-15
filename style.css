@@ -1,0 +1,30 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+.feature {
+  text-align: left;
+}
+.left {
+  width: 50%;
+  float: left;
+}
+.screenshot {
+  text-align: center;
+}
+.screenshot img {
+  max-width: 500px;
+  max-height: 300px;
+}
+.right {
+  width: 50%;
+  float: right;
+}
+hr {
+  clear: both;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  border: 0px;
+  border-bottom: 1px dotted #CCC;
+  height: 1px;
+}
